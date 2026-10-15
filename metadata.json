@@ -1,0 +1,6 @@
+{
+  "name": "AstraBook - Sci-Fi Book Marketing & Funnel Automation OS",
+  "description": "Plateforme complète d'automatisation marketing pour auteurs de science-fiction : tunnels de vente, séquences d'e-mails automatisées, campagnes publicitaires ciblées Amazon/Meta, annuaire de lecteurs US et analyse précise des conversions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
